@@ -1,0 +1,37 @@
+body{
+	font-family: "Marker Felt", "Comic Sans MS", fantasy;
+	color: #003366;
+	background-color: #905500
+}
+
+h1 {
+	font-size: 1.3em;
+	text-align: center;
+}
+
+table {
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: left;
+	border-collapse: collapse;
+	cellspacing: 10px;
+	color: #FF5500;
+	border-bottom-width: 300px;
+}
+
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#9FB6CD; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #003366;
+}
+.paragraphs {
+	text-align: Center;
+	color: Aqua;
+	
+}
